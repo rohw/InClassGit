@@ -7,3 +7,6 @@ def calc_function(x, y):
 
     mult = x*y
     print("Multiplication is ", mult)
+
+    div = x/y
+    print("Division is ", div)
