@@ -3,4 +3,7 @@ def calc_function(x, y):
     print("Sum is ", sum)
 
     subt = x-y
-    print("Subtract is ", subt)
+    print("Subtraction is ", subt)
+
+    mult = x*y
+    print("Multiplication is ", mult)
